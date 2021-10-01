@@ -56,3 +56,11 @@ background-color: inherit;
     border: 3px  solid white;
     margin-top: 12px;
 }
+.education{
+    color: blue;
+    opacity: 0.2;
+}
+.experience{
+    color: blue;
+    opacity: 0.2;
+}
