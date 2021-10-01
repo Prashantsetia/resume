@@ -1,0 +1,39 @@
+.contact-subclass{
+    height: 350px;
+    width: 35%;
+    min-width: 250px;
+    margin: 30px 30px 0 30px;
+    
+
+}
+.contact-subclass form div{
+    margin-top: 12px;
+
+    
+}
+.contact-subclass input{
+    width: 90%;
+    height: 45px;
+    
+    background-color: inherit;
+    border: 0;
+    outline: none;
+    
+}
+.contact-subclass textarea{
+width: 90%;
+height: 5rem;
+border: 0px;
+background-color: inherit;
+}
+.contact-subclass button{
+    height: 3rem;
+    width: 12rem;
+    
+    background-color: inherit;
+    color: white;
+    size: 9rem;
+    letter-spacing: 1px;
+    border: 3px  solid white;
+    margin-top: 12px;
+}
