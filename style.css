@@ -1,3 +1,19 @@
+html{
+    font-size: 15px;
+}
+#body-header{
+    height: 65vh;
+    background-image: url(images/resumebackground2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.95;
+    
+}
+
+
+
+
 .contact-subclass{
     height: 350px;
     width: 35%;
